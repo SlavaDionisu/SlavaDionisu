@@ -14,7 +14,7 @@
 Я открыта для сотрудничества и обмена опытом. Давайте вместе создадим что-то значимое! 🚀
 
 ### :mailbox: Как со мной связаться:  
-<a href="https://t.me/ваш_username">
+<a href="https://t.me/Schizandraceae">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" alt="Telegram">
 </a>
 <a href="mailto:komlevayam@mail.ru">

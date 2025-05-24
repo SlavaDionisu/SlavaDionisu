@@ -16,12 +16,9 @@
 
 ### :mailbox: Как со мной связаться: 
 
-<div style="margin-left: 22.5px;">
+<div style="display: flex; align-items: center; gap: 5px;">
   <a href="https://t.me/Schizandraceae">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" alt="Telegram">
-  </a>
-</div>
-<div style="relative; left: 20px;">
   <a href="mailto:komlevayam@mail.ru">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Email_Icon.svg" width="74" height="74" alt="Email">
   </a>
